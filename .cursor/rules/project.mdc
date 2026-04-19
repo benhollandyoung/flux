@@ -1,0 +1,9 @@
+You are helping build a language learning webapp.
+
+Rules:
+- Always propose a plan before coding
+- Only implement small vertical slices
+- Do not build everything at once
+- Use TypeScript
+- Use Zod for all LLM outputs
+- Keep code modular and clean
